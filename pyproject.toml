@@ -28,6 +28,7 @@ pysqlite3-binary = "^0.5.2.post3"
 langchain-openai = "^0.1.7"
 langchain-google-genai = "^1.0.5"
 langchainhub = "^0.1.16"
+faiss-cpu = "^1.8.0"
 
 
 [build-system]
