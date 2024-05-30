@@ -29,6 +29,9 @@ langchain-openai = "^0.1.7"
 langchain-google-genai = "^1.0.5"
 langchainhub = "^0.1.16"
 faiss-cpu = "^1.8.0"
+langgraph = "^0.0.55"
+langchain-huggingface = "^0.0.1"
+iprogress = "^0.4"
 
 
 [build-system]
