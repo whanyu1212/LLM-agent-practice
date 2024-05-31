@@ -32,6 +32,7 @@ faiss-cpu = "^1.8.0"
 langgraph = "^0.0.55"
 langchain-huggingface = "^0.0.1"
 iprogress = "^0.4"
+fuzzywuzzy = "^0.18.0"
 
 
 [build-system]
