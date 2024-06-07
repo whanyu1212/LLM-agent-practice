@@ -33,6 +33,9 @@ langgraph = "^0.0.55"
 langchain-huggingface = "^0.0.1"
 iprogress = "^0.4"
 fuzzywuzzy = "^0.18.0"
+langchain-experimental = "^0.0.60"
+langchain-mistralai = "^0.1.8"
+matplotlib = "^3.9.0"
 
 
 [build-system]
